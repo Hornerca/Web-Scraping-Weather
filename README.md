@@ -3,4 +3,4 @@
 - Website URL accessed using requests
 - HTML page content stored in BeautifulSoup
 - Weekly trends organized and stored in pandas dataframe
-- PyQt5 GUI created to display contents
+- PyQt5 GUI created to display contents of dataframe
